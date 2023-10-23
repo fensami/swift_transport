@@ -1,0 +1,10 @@
+.deliverBg{
+  
+  background-image: linear-gradient(
+    to bottom,
+    /* #a8dadc 0%, */
+    #dce1e4 50%,
+    /* #ED1B24 0%, */
+    #002A54 20%
+);
+}
